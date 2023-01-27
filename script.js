@@ -30,6 +30,6 @@ var marker3 = L.marker([50,40]).addTo(map).on('click', function(){
 	sidebar.setContent('<h1>Somewhere else</h1> <br> <p>Contenet here</p>').show();
 });
 
-var marker3 = L.marker([50,40]).addTo(map).on('click', function(){
+var marker4 = L.marker([50,40]).addTo(map).on('click', function(){
 	sidebar.setContent('<h1>Somewhere else</h1> <br> <p>Contenet here</p>').show();
 });
