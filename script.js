@@ -5,7 +5,7 @@ var map = new L.Map('leaflet', {
 		})
 	],
 	center: [0, 0],
-	zoom: 0
+	zoom: 10
 });
 
 
